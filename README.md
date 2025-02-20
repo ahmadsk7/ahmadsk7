@@ -2,11 +2,11 @@
 
 I'm Ahmad Sheikh-Khalil, a Computer Science student at the University of Michigan, passionate about building cool things and solving interesting problems.
 
-🔭 I’m currently working on full-stack projects & AI-powered applications
-🗣️ I’m learning ML techniques and scaling efficient web systems
-👯 I’m looking to collaborate on impactful software projects!
-📷 I love landscape photography and tech that enhances creative expression
-📫 Reach me at ahmadsk@umich.edu
+- 🔭 I’m currently working on full-stack projects & AI-powered applications
+- 🗣️ I’m learning ML techniques and scaling efficient web systems
+- 👯 I’m looking to collaborate on impactful software projects!
+- 📷 I love landscape photography and tech that enhances creative expression
+- 📫 Reach me at ahmadsk@umich.edu
 
 
 <!--
