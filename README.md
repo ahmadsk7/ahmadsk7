@@ -1,11 +1,12 @@
-## Hi there 👋
+## hey there 👋
 
-I'm Ahmad Sheikh-Khalil, a Computer Science student at the University of Michigan, passionate about building cool things and solving interesting problems.
+i’m ahmad, cs @ umich 🎓  
+minoring in entrepreneurship & global health 🌍
 
-- 🔭 I’m currently working on full-stack projects & AI-powered applications
-- 👯 I’m looking to collaborate on impactful software projects!
-- 📷 I love cinematography and tech that enhances creative expression
-- 📫 Reach me at ahmadsk@umich.edu
+- 🔭 building full-stack apps & ai-powered experiences  
+- 🤝 open to collaborations that drive real-world impact  
+- 🎬 exploring cinematography & creative tech intersections  
+- 📬 say hi: ahmadsk@umich.edu  
 
 
 <!--
